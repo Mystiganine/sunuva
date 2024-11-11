@@ -8,7 +8,7 @@ Sunuva each has a section for scripts, tools, and helpful information. Currently
 Currently, sunuva is empty; over time there might be also nothing.
 
 ### HOWEVER
-If there is in fact not nothing--or there IS something, great. You are welcome to use it for non-commercial, moral, and ethical means that equally abide by jurisdictional laws of origin. Do not use it for illegitimate purposes or by means of obtaining money, unauthorized access of systems, or otherwise releated/by-proxy activity.
+If there is in fact not nothing--or there IS something, great. You are welcome to use it for non-commercial, moral, and ethical means that equally abide by jurisdictional laws of origin. Do not use it for illegitimate purposes or by means of obtaining money, unauthorized access of systems, or otherwise related/by-proxy activity.
 
 ### SO,
 Welcome to my repository of whatever this is. Please submit ideas or suggestions via github dm.
